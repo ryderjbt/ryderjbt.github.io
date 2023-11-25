@@ -1,2 +1,0 @@
-# ryderjbt.github.io
-WebsiteMe!
