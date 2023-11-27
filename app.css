@@ -1,12 +1,12 @@
 h1 {
+    text-align: center;
     font-family: "Monaco", monospace;
     color: #91876d;
-    text-align: center;
 }
 
 body {
-    font-family: "Monaco", monospace;
-    color: #91876d;
     background-color: #2a2b2e;
     text-align: center;
+    font-family: "Monaco", monospace;
+    color: #91876d;
 }
