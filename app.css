@@ -1,7 +1,10 @@
 h1 {
-    color: #e9e9e9;
+    font-family: "Monaco", monospace;
+    color: #91876d;
 }
 
 body {
-    background-image: url("./Images/james.jpg");
+    font-family: "Monaco", monospace;
+    text-decoration-color: #91876d;
+    background-color: #2a2b2e;
 }
