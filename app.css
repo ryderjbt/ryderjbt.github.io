@@ -26,9 +26,8 @@ body {
     font-size: 2;
 }
 
-.font-properties {
-    text-align: center;
-        display: inline-block; text-align: left;
+.unorderedList {
+    text-align: left;
     background-color: #2a2b2e;
     font-family: "Monaco", monospace;
     color: #91876d;
