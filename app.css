@@ -18,7 +18,7 @@ body {
 }
 
 .list {
-    text-align: match-parent;
+    text-align: left;
     background-color: #2a2b2e;
     font-family: "Monaco", monospace;
     color: #91876d;
