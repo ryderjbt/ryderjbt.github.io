@@ -20,7 +20,7 @@ h2 {
 body {
     text-align: center;
         display: inline-block; text-align: left;
-    background-color: #95744b;
+    background-color: #403220;
     font-family: "Monaco", monospace;
     color: #eab676;
     font-size: 2;
@@ -30,7 +30,7 @@ li {
     margin: 0; 
     padding: 0;
     text-align: left;
-    background-color: #95744b;
+    background-color: #403220;
     font-family: "Monaco", monospace;
     color: #eab676;
     font-size: 1;
@@ -38,5 +38,5 @@ li {
   }
 
   iframe  {
-    border: solid 10px #403220 !important;
+    border: solid 10px #95744b !important;
   }
