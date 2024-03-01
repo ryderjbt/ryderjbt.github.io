@@ -6,23 +6,23 @@
 h1 {
     text-align: center;
     font-family: "Monaco", monospace;
-    color: #dea6af;
+    color: #eab676;
     font-size: 5;
 }
 
 h2 {
     text-align: center;
     font-family: "Monaco", monospace;
-    color: #dea6af;
+    color: #eab676;
     font-size: 3;
 }
 
 body {
     text-align: center;
         display: inline-block; text-align: left;
-    background-color: #eab676;
+    background-color: #403220;
     font-family: "Monaco", monospace;
-    color: #dea6af;
+    color: #eab676;
     font-size: 2;
 }
 
@@ -30,9 +30,9 @@ li {
     margin: 0; 
     padding: 0;
     text-align: left;
-    background-color: #eab676;
+    background-color: #403220;
     font-family: "Monaco", monospace;
-    color: #dea6af;
+    color: #eab676;
     font-size: 1;
     font-style: italic;
   }
