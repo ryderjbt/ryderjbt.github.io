@@ -40,3 +40,15 @@ li {
   iframe  {
     border: solid 10px #95744b !important;
   }
+
+  button {
+    background-color: #95744b;
+    border: none;
+    color: #eab676;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: "Monaco", monospace;
+    font-size: 2;
+  }
