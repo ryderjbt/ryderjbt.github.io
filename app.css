@@ -37,6 +37,6 @@ li {
     font-style: italic;
   }
 
-  .video-player  {
+  iframe  {
     border: solid 10px #8f4949 !important;
   }
