@@ -19,9 +19,8 @@ function catButton()
        preBuffer[i].src = theImages[i].src;
        preBuffer[i].width = "250";
        preBuffer[i].height = "400";
-       preBuffer[i].style = "margin-left: 50%";
-       preBuffer[i].style = "margin-top: 50px";
-       preBuffer[i].style = "background-color: #95744b";
+       preBuffer[i].style = "margin-left: 100px";
+       preBuffer[i].style = "margin-top: 100px";
        preBuffer[i].style = "border: 5px solid #95744b";
    }
   
