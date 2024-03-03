@@ -6,11 +6,11 @@ function alertButton()
 function catButton() 
 {
     var theImages = [{
-       src: "https://github.com/ryderjbt/ryderjbt.github.io/blob/main/Images/lillithUpsideDown.png",
+       src: "/Images/lillithUpsideDown.jpg",
    }, {
-       src: "https://github.com/ryderjbt/ryderjbt.github.io/blob/main/Images/SisterSignYellow.png",
+       src: "/Images/SisterSignYellow.png",
    }, {
-       src: "https://github.com/ryderjbt/ryderjbt.github.io/blob/main/Images/SisterSign.png",
+       src: "/Images/SisterSign.png",
    }];
    
    var preBuffer = [];
