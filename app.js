@@ -41,5 +41,5 @@ for (var p = 0; p < l; p++) {
    images[0].parentNode.removeChild(images[0]);
 }
 // display the image  
-document.body.appendChild(newImage); style="position:fixed; bottom:50px; right:50px;";
+document.body.appendChild(newImage);
 }
