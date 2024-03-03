@@ -8,9 +8,9 @@ function catButton()
     var theImages = [{
        src: "/Images/lillithUpsideDown.jpg",
    }, {
-       src: "/Images/SisterSignYellow.png",
+       src: "/Images/lillithUpsideDown.jpg",
    }, {
-       src: "/Images/SisterSign.png",
+       src: "/Images/lillithUpsideDown.jpg",
    }];
    
    var preBuffer = [];
