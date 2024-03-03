@@ -6,11 +6,11 @@ function alertButton()
 function catButton() 
 {
     var theImages = [{
-       src: "https://ryderjbt.github.io/Images/lillithUpsideDown.jpg",
+       src: "https://ryderjbt.github.io/Images/Catsite/lillithUpsideDown.jpg",
    }, {
-       src: "https://ryderjbt.github.io/Images/lillithUpsideDown.jpg",
+       src: "https://ryderjbt.github.io/Images/Catsite/lillithUpsideDown.jpg",
    }, {
-       src: "https://ryderjbt.github.io/Images/lillithUpsideDown.jpg",
+       src: "https://ryderjbt.github.io/Images/Catsite/lillithUpsideDown.jpg",
    }];
    
    var preBuffer = [];
@@ -21,6 +21,8 @@ function catButton()
        preBuffer[i].height = "400";
        preBuffer[i].style = "margin-left: 50%";
        preBuffer[i].style = "margin-top: 50%";
+       preBuffer[i].style = "background-color: #95744b";
+       preBuffer[i].style = "padding: 10px 10px;";
    }
   
 // create random image number
