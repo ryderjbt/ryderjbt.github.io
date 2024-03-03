@@ -22,7 +22,6 @@ function catButton()
        preBuffer[i].style = "margin-left: 50%";
        preBuffer[i].style = "margin-top: 50%";
        preBuffer[i].style = "background-color: #95744b";
-       preBuffer[i].style = "padding: 10px 10px;";
    }
   
 // create random image number
