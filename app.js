@@ -20,7 +20,7 @@ function catButton()
        preBuffer[i].width = "250";
        preBuffer[i].height = "400";
        preBuffer[i].style = "margin-left: 50%";
-       preBuffer[i].style = "margin-top: 40%";
+       preBuffer[i].style = "margin-top: 50px";
        preBuffer[i].style = "background-color: #95744b";
        preBuffer[i].style = "border: 5px solid #95744b";
    }
