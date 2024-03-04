@@ -6,13 +6,7 @@ function alertButton()
 function catButton() 
 {
     var theImages = [{
-        src: "https://ryderjbt.github.io/Images/Catsite/lillithUpsideDown.jpg",
-    }, {
-       src: "https://ryderjbt.github.io/Images/Catsite/lillithUpsideDown.jpg",
-    }, {
-       src: "https://ryderjbt.github.io/Images/Catsite/lillithUpsideDown.jpg",
-    }, {
-       src: "https://ryderjbt.github.io/Images/Catsite/2cfd6392-a979-4427-84e6-fe0bd724f521.jpg",
+        src: "https://ryderjbt.github.io/Images/Catsite/2cfd6392-a979-4427-84e6-fe0bd724f521.jpg",
     }, {
         src: "https://ryderjbt.github.io/Images/Catsite/4DB4F81A-2C55-4FC5-BE52-67C0574C1327.jpg",
     }, { 
