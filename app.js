@@ -106,7 +106,7 @@ function catButton()
        preBuffer[i] = new Image();
        preBuffer[i].src = theImages[i].src;
        preBuffer[i].width = "400";
-       preBuffer[i].height = "640";
+       preBuffer[i].height = "500";
        preBuffer[i].style = "margin-top: 35%; border: 5px solid #95744b; background-color: #95744b;";
    }
   
