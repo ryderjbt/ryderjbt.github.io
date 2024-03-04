@@ -105,9 +105,9 @@ function catButton()
    for (var i = 0, j = theImages.length; i < j; i++) {
        preBuffer[i] = new Image();
        preBuffer[i].src = theImages[i].src;
-       preBuffer[i].width = "400";
+       preBuffer[i].width = "350";
        preBuffer[i].height = "500";
-       preBuffer[i].style = "margin-top: 35%; border: 5px solid #95744b; background-color: #95744b;";
+       preBuffer[i].style = "margin-top: 100px; border: 5px solid #95744b; background-color: #95744b;";
    }
   
 // create random image number
