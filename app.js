@@ -6,99 +6,99 @@ function alertButton()
 function catButton() 
 {
     var theImages = [{
-        src: "https://ryderjbt.github.io/Images/Catsite/2cfd6392-a979-4427-84e6-fe0bd724f521.jpg",
+        src: "https://ryderjbt.github.io/Images/Catsite/Lillith/2cfd6392-a979-4427-84e6-fe0bd724f521.jpg",
     }, {
-        src: "https://ryderjbt.github.io/Images/Catsite/4DB4F81A-2C55-4FC5-BE52-67C0574C1327.jpg",
+        src: "https://ryderjbt.github.io/Images/Catsite/Lillith/4DB4F81A-2C55-4FC5-BE52-67C0574C1327.jpg",
     }, { 
-        src: "https://ryderjbt.github.io/Images/Catsite/be3ac2e0-94d0-4b3f-bc1b-67c88e67868c.jpg",
+        src: "https://ryderjbt.github.io/Images/Catsite/Lillith/be3ac2e0-94d0-4b3f-bc1b-67c88e67868c.jpg",
     }, { 
-        src: "https://ryderjbt.github.io/Images/Catsite/IMG_0021.JPG",
+        src: "https://ryderjbt.github.io/Images/Catsite/Lillith/IMG_0021.JPG",
     }, { 
-        src: "https://ryderjbt.github.io/Images/Catsite/IMG_0034.JPG",
+        src: "https://ryderjbt.github.io/Images/Catsite/Lillith/IMG_0034.JPG",
     }, { 
-        src: "https://ryderjbt.github.io/Images/Catsite/IMG_0095.JPG",
+        src: "https://ryderjbt.github.io/Images/Catsite/Lillith/IMG_0095.JPG",
     }, { 
-        src: "https://ryderjbt.github.io/Images/Catsite/IMG_0275.JPG",
+        src: "https://ryderjbt.github.io/Images/Catsite/Lillith/IMG_0275.JPG",
     }, { 
-        src: "https://ryderjbt.github.io/Images/Catsite/IMG_0278.JPG",
+        src: "https://ryderjbt.github.io/Images/Catsite/Lillith/IMG_0278.JPG",
     }, {
-        src: "https://ryderjbt.github.io/Images/Catsite/IMG_1013.jpeg",
+        src: "https://ryderjbt.github.io/Images/Catsite/Lillith/IMG_1013.jpeg",
     }, {
-        src: "https://ryderjbt.github.io/Images/Catsite/IMG_1036.JPG",
+        src: "https://ryderjbt.github.io/Images/Catsite/Lillith/IMG_1036.JPG",
     }, {
-        src: "https://ryderjbt.github.io/Images/Catsite/IMG_1068.jpeg",
+        src: "https://ryderjbt.github.io/Images/Catsite/Lillith/IMG_1068.jpeg",
     }, {
-        src: "https://ryderjbt.github.io/Images/Catsite/IMG_1170.jpeg",
+        src: "https://ryderjbt.github.io/Images/Catsite/Lillith/IMG_1170.jpeg",
     }, {
-        src: "https://ryderjbt.github.io/Images/Catsite/IMG_1171.jpeg",
+        src: "https://ryderjbt.github.io/Images/Catsite/Lillith/IMG_1171.jpeg",
     }, { 
-        src: "https://ryderjbt.github.io/Images/Catsite/IMG_1196.JPG",
+        src: "https://ryderjbt.github.io/Images/Catsite/Lillith/IMG_1196.JPG",
     }, {
-        src: "https://ryderjbt.github.io/Images/Catsite/IMG_4487.JPG",
+        src: "https://ryderjbt.github.io/Images/Catsite/Lillith/IMG_4487.JPG",
     }, {
-        src: "https://ryderjbt.github.io/Images/Catsite/IMG_4488.JPG",
+        src: "https://ryderjbt.github.io/Images/Catsite/Lillith/IMG_4488.JPG",
     }, {
-        src: "https://ryderjbt.github.io/Images/Catsite/IMG_4489.JPG",
+        src: "https://ryderjbt.github.io/Images/Catsite/Lillith/IMG_4489.JPG",
     }, {
-        src: "https://ryderjbt.github.io/Images/Catsite/IMG_4490.JPG",
+        src: "https://ryderjbt.github.io/Images/Catsite/Lillith/IMG_4490.JPG",
     }, {
-        src: "https://ryderjbt.github.io/Images/Catsite/IMG_4491.JPG",
+        src: "https://ryderjbt.github.io/Images/Catsite/Lillith/IMG_4491.JPG",
     }, {
-        src: "https://ryderjbt.github.io/Images/Catsite/IMG_4492.JPG",
+        src: "https://ryderjbt.github.io/Images/Catsite/Lillith/IMG_4492.JPG",
     }, {
-        src: "https://ryderjbt.github.io/Images/Catsite/IMG_4708.JPG",
+        src: "https://ryderjbt.github.io/Images/Catsite/Lillith/IMG_4708.JPG",
     }, {
-        src: "https://ryderjbt.github.io/Images/Catsite/IMG_4795.jpeg",
+        src: "https://ryderjbt.github.io/Images/Catsite/Lillith/IMG_4795.jpeg",
     }, {
-        src: "https://ryderjbt.github.io/Images/Catsite/IMG_4806.jpeg",
+        src: "https://ryderjbt.github.io/Images/Catsite/Lillith/IMG_4806.jpeg",
     }, {
-        src: "https://ryderjbt.github.io/Images/Catsite/IMG_4815.jpeg",
+        src: "https://ryderjbt.github.io/Images/Catsite/Lillith/IMG_4815.jpeg",
     }, {
-        src: "https://ryderjbt.github.io/Images/Catsite/IMG_4827.jpeg",
+        src: "https://ryderjbt.github.io/Images/Catsite/Lillith/IMG_4827.jpeg",
     }, {
-        src: "https://ryderjbt.github.io/Images/Catsite/IMG_4839.JPG",
+        src: "https://ryderjbt.github.io/Images/Catsite/Lillith/IMG_4839.JPG",
     }, {
-        src: "https://ryderjbt.github.io/Images/Catsite/IMG_4887.JPG",
+        src: "https://ryderjbt.github.io/Images/Catsite/Lillith/IMG_4887.JPG",
     }, {
-        src: "https://ryderjbt.github.io/Images/Catsite/IMG_4889.JPG",
+        src: "https://ryderjbt.github.io/Images/Catsite/Lillith/IMG_4889.JPG",
     }, {
-        src: "https://ryderjbt.github.io/Images/Catsite/IMG_4890.jpeg",
+        src: "https://ryderjbt.github.io/Images/Catsite/Lillith/IMG_4890.jpeg",
     }, {
-        src: "https://ryderjbt.github.io/Images/Catsite/IMG_4891.jpeg",
+        src: "https://ryderjbt.github.io/Images/Catsite/Lillith/IMG_4891.jpeg",
     }, {
-        src: "https://ryderjbt.github.io/Images/Catsite/IMG_4919.jpeg",
+        src: "https://ryderjbt.github.io/Images/Catsite/Lillith/IMG_4919.jpeg",
     }, {
-        src: "https://ryderjbt.github.io/Images/Catsite/IMG_4942.JPG",
+        src: "https://ryderjbt.github.io/Images/Catsite/Lillith/IMG_4942.JPG",
     }, {
-        src: "https://ryderjbt.github.io/Images/Catsite/IMG_5003.JPG",
+        src: "https://ryderjbt.github.io/Images/Catsite/Lillith/IMG_5003.JPG",
     }, {
-        src: "https://ryderjbt.github.io/Images/Catsite/IMG_5570.JPG",
+        src: "https://ryderjbt.github.io/Images/Catsite/Lillith/IMG_5570.JPG",
     }, {
-        src: "https://ryderjbt.github.io/Images/Catsite/IMG_5571.JPG",
+        src: "https://ryderjbt.github.io/Images/Catsite/Lillith/IMG_5571.JPG",
     }, {
-        src: "https://ryderjbt.github.io/Images/Catsite/IMG_5693.JPG",
+        src: "https://ryderjbt.github.io/Images/Catsite/Lillith/IMG_5693.JPG",
     }, {
-        src: "https://ryderjbt.github.io/Images/Catsite/IMG_5831.JPG",
+        src: "https://ryderjbt.github.io/Images/Catsite/Lillith/IMG_5831.JPG",
     }, {
-        src: "https://ryderjbt.github.io/Images/Catsite/IMG_5835.JPG",
+        src: "https://ryderjbt.github.io/Images/Catsite/Lillith/IMG_5835.JPG",
     }, {
-        src: "https://ryderjbt.github.io/Images/Catsite/IMG_5836.JPG",
+        src: "https://ryderjbt.github.io/Images/Catsite/Lillith/IMG_5836.JPG",
     }, {
-        src: "https://ryderjbt.github.io/Images/Catsite/IMG_5838.JPG",
+        src: "https://ryderjbt.github.io/Images/Catsite/Lillith/IMG_5838.JPG",
     }, {
-        src: "https://ryderjbt.github.io/Images/Catsite/IMG_5949.JPG",
+        src: "https://ryderjbt.github.io/Images/Catsite/Lillith/IMG_5949.JPG",
     }, {
-        src: "https://ryderjbt.github.io/Images/Catsite/IMG_6006.JPG",
+        src: "https://ryderjbt.github.io/Images/Catsite/Lillith/IMG_6006.JPG",
     }, {
-        src: "https://ryderjbt.github.io/Images/Catsite/IMG_6134.JPG",
+        src: "https://ryderjbt.github.io/Images/Catsite/Lillith/IMG_6134.JPG",
     }, {
-        src: "https://ryderjbt.github.io/Images/Catsite/IMG_6309.jpeg",
+        src: "https://ryderjbt.github.io/Images/Catsite/Lillith/IMG_6309.jpeg",
     }, { 
-        src: "https://ryderjbt.github.io/Images/Catsite/IMG_6310.jpeg",
+        src: "https://ryderjbt.github.io/Images/Catsite/Lillith/IMG_6310.jpeg",
     }, {
-        src: "https://ryderjbt.github.io/Images/Catsite/IMG_7089.jpeg",
+        src: "https://ryderjbt.github.io/Images/Catsite/Lillith/IMG_7089.jpeg",
     }, {
-        src: "https://ryderjbt.github.io/Images/Catsite/IMG_7290.JPG",
+        src: "https://ryderjbt.github.io/Images/Catsite/Lillith/IMG_7290.JPG",
     }];
    
    var preBuffer = [];
