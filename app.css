@@ -59,5 +59,11 @@ li {
     display: inline-block;
     font-family: "Monaco", monospace;
     font-size: 15px;
+    transition-duration: 0.4s;
     cursor:pointer;
+  }
+
+  button:hover {
+    background-color: #eab676;
+    color: #95744b;
   }
