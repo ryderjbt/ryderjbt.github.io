@@ -18,9 +18,9 @@ function catButton()
     }, { 
         src: "https://ryderjbt.github.io/Images/Mum/IMG_0314.PNG",
     }, { 
-        src: "https://ryderjbt.github.io/Images/Mum/IMG_0700.HEIC",
+        src: "https://ryderjbt.github.io/Images/Mum/IMG_0700.JPEG",
     }, { 
-        src: "https://ryderjbt.github.io/Images/Mum/IMG_0704.HEIC",
+        src: "https://ryderjbt.github.io/Images/Mum/IMG_0704.JPEG",
     }, {
         src: "https://ryderjbt.github.io/Images/Mum/IMG_1308.JPG",
     }, {
@@ -36,25 +36,25 @@ function catButton()
     }, {
         src: "https://ryderjbt.github.io/Images/Mum/IMG_6138.JPG",
     }, {
-        src: "https://ryderjbt.github.io/Images/Mum/IMG_8518.HEIC",
+        src: "https://ryderjbt.github.io/Images/Mum/IMG_8518.JPEG",
     }, {
-        src: "https://ryderjbt.github.io/Images/Mum/IMG_8520.HEIC",
+        src: "https://ryderjbt.github.io/Images/Mum/IMG_8520.JPEG",
     }, {
         src: "https://ryderjbt.github.io/Images/Mum/IMG_1317.JPG",
     }, {
         src: "https://ryderjbt.github.io/Images/Mum/IMG_1330.PNG",
     }, {
-        src: "https://ryderjbt.github.io/Images/Mum/IMG_3524.HEIC",
+        src: "https://ryderjbt.github.io/Images/Mum/IMG_3524.JPEG",
     }, {
         src: "https://ryderjbt.github.io/Images/Mum/IMG_3969.JPG",
     }, {
         src: "https://ryderjbt.github.io/Images/Mum/IMG_5198.JPG",
     }, {
-        src: "https://ryderjbt.github.io/Images/Mum/IMG_8517.HEIC",
+        src: "https://ryderjbt.github.io/Images/Mum/IMG_8517.JPEG",
     }, {
-        src: "https://ryderjbt.github.io/Images/Mum/IMG_8519.HEIC",
+        src: "https://ryderjbt.github.io/Images/Mum/IMG_8519.JPEG",
     }, {
-        src: "https://ryderjbt.github.io/Images/Mum/IMG_8521.HEIC",
+        src: "https://ryderjbt.github.io/Images/Mum/IMG_8521.JPEG",
     }];
    
    var preBuffer = [];
