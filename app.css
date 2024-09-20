@@ -1,69 +1,69 @@
 * {
 
-    text-align: center;
+  text-align: center;
 }
 
 h1 {
-    text-align: center;
-    font-family: "Monaco", monospace;
-    color: #eab676;
-    font-size: 5;
+  text-align: center;
+  font-family: "Monaco", monospace;
+  color: #eab676;
+  font-size: 5;
 }
 
 h2 {
-    text-align: center;
-    font-family: "Monaco", monospace;
-    color: #eab676;
-    font-size: 3;
+  text-align: center;
+  font-family: "Monaco", monospace;
+  color: #eab676;
+  font-size: 3;
 }
 
 body {
-    text-align: center;
-        display: inline-block; text-align: left;
-    background-color: #403220;
-    font-family: "Monaco", monospace;
-    color: #eab676;
-    font-size: 2;
+  text-align: center;
+      display: inline-block; text-align: left;
+  background-color: #403220;
+  font-family: "Monaco", monospace;
+  color: #eab676;
+  font-size: 2;
 }
 
 a {
-    color: #76aaea;
-  }
+  color: #76aaea;
+}
 
 a:visited {
-    color: #8876ea;
-  }
+  color: #8876ea;
+}
 
 li {
-    margin: 0; 
-    padding: 0;
-    text-align: left;
-    background-color: #403220;
-    font-family: "Monaco", monospace;
-    color: #eab676;
-    font-size: 1;
-    font-style: italic;
-  }
+  margin: 0; 
+  padding: 0;
+  text-align: left;
+  background-color: #403220;
+  font-family: "Monaco", monospace;
+  color: #eab676;
+  font-size: 1;
+  font-style: italic;
+}
 
-  iframe  {
-    border: solid 10px #95744b !important;
-  }
+iframe  {
+  border: solid 10px #95744b !important;
+}
 
-  button {
-    background-color: #95744b;
-    border: none;
-    color: #eab676;
-    padding: 10px 20px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-family: "Monaco", monospace;
-    font-size: 15px;
-    transition-duration: 0.4s;
-    cursor:pointer;
-  }
+button {
+  background-color: #95744b;
+  border: none;
+  color: #eab676;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-family: "Monaco", monospace;
+  font-size: 15px;
+  transition-duration: 0.4s;
+  cursor:pointer;
+}
 
-  button:hover {
-    background-color: #eab676;
-    color: #95744b;
-  }
+button:hover {
+  background-color: #eab676;
+  color: #95744b;
+}
