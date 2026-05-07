@@ -6,22 +6,29 @@
 table {
   text-align: left;
   background-color: antiquewhite;
+  border: 3px salmon solid;
+  color: #eab676;
 }
 
 thead {
   text-align: center;
+  border: 2px salmon solid;
 }
 
 tbody {
   text-align: left;
+  border: 2px salmon solid;
 }
 
 tfoot { 
   text-align: left;
+  padding: 10px;
+  border: 2px salmon solid;
 }
 
 tr {
   text-align: left;
+  border: 2px salmon solid;
 }
 
 th {
@@ -34,13 +41,16 @@ td {
 
 caption {
   text-align: left;
+  background-color: seagreen;
+  border: 2px salmon solid;
 }
 
 .Team {
-  background-color: #95744b;
-  border: none;
+  background-color: antiquewhite;
+  border-radius: 10px;
+  border: 5px salmon solid;
   color: #eab676;
-  padding: 10px 20px;
+  width: auto;
   text-align: center;
   text-decoration: none;
   display: inline-block;
