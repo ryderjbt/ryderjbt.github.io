@@ -67,3 +67,49 @@ button:hover {
   background-color: #eab676;
   color: #95744b;
 }
+
+table {
+
+}
+
+thead {
+
+}
+
+tbody {
+
+}
+
+tfoot { 
+
+}
+
+tr {
+  
+}
+
+th {
+  
+}
+
+td {
+  
+}
+
+caption {
+  
+}
+
+.Team {
+  background-color: #95744b;
+  border: none;
+  color: #eab676;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-family: "Monaco", monospace;
+  font-size: 15px;
+  transition-duration: 0.4s;
+  cursor:pointer;
+}
