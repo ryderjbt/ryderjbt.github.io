@@ -7,6 +7,7 @@ table {
   text-align: left;
   background-color: antiquewhite;
   border: 3px salmon solid;
+  border-collapse: collapse;
   color: #eab676;
 }
 
@@ -33,32 +34,40 @@ tr {
 
 th {
   text-align: left;
+  border: 2px salmon solid;
+  border-collapse: collapse;
 }
 
 td {
   text-align: left;
+  border: 2px salmon solid;
+  border-collapse: collapse;
 }
 
 caption {
   text-align: left;
-  background-color: seagreen;
-  border: 2px salmon solid;
+  background-color: #057F8D;
 }
 
 .Team {
   background-color: antiquewhite;
-  border-radius: 10px;
-  border: 5px salmon solid;
-  color: #eab676;
-  width: auto;
-  text-align: center;
+  border: 2px antiquewhite;
+  margin: 5px;
+  width: 100px;
+  text-align: left;
   text-decoration: none;
   display: inline-block;
   font-family: "Monaco", monospace;
-  font-size: 15px;
+  font-size: 13px;
   transition-duration: 0.4s;
   cursor:pointer;
 }
+
+.Team:hover {
+  background-color: #057F8D;
+  border: 2px #057F8D;
+}
+
 
 h1 {
   text-align: center;
@@ -85,10 +94,12 @@ body {
 
 a {
   color: #76aaea;
+  text-decoration: none;
 }
 
 a:visited {
   color: #8876ea;
+  text-decoration: none;
 }
 
 li {
