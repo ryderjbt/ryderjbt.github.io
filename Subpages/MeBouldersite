@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content=""width=device-width, initial-scale="1.0">
+    <link rel="apple-touch-icon" sizes="76x76" href="../../IconStuff/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="../../IconStuff/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="../../IconStuff/favicon-16x16.png">
+    <link rel="manifest" href="../../IconStuff/site.webmanifest">
+    <link rel="mask-icon" href="../../IconStuff/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+    <title>Plebsite</title>
+    <link rel="stylesheet" type="text/css" href="../../app.css"/>
+  </head>
+
+  <body>
+    <h1>Climbing League</h1>
+    <h2>BoulderBoards</h2>
+    <table>
+      <caption>
+        Boulder League Leaderboard (Overall)
+      </caption>
+
+      <thead>     
+        <tr>
+          <th>Boulder Bro</th>
+          <th>Score</th>
+          <th>Bro Ranking</th>
+        </tr>
+      </thead>
+
+      <tbody>
+        <tr>
+          <td>Ryder</td>
+          <td>5,555</td>
+          <td>1st</td>
+        </tr>
+
+        <tr>
+          <td>AJ</td>
+          <td>5,507</td>
+          <td>2nd</td>
+        </tr>
+      </tbody>
+
+      <tfoot>
+        <tr>
+          <td>Score to beat</td>
+          <td>8,660</td>
+        </tr>
+      </tfoot>
+    </table>
+
+    <table>
+      <caption>
+        Boulder League Leaderboard (Womens)
+      </caption>
+
+      <thead>     
+        <tr>
+          <th>Boulder Bro</th>
+          <th>Score</th>
+          <th>Team</th>
+          <th>Bro Ranking</th>
+          <th>League Ranking</th>
+        </tr>
+      </thead>
+
+      <tbody>
+        <tr>
+          <td>AJ</td>
+          <td>2,317</td>
+          <td><a class="Team" href="https://fantasyclimbingleague.com/teams/6fca9708-adae-495b-abef-2eaf318c0365/breakdown">Beta Blockers</a></td>
+          <td>1st</td>
+          <td>1432nd</td>
+        </tr>
+
+        <tr>
+          <td>Ryder</td>
+          <td>2,224</td>
+          <td><a class="Team" href="https://fantasyclimbingleague.com/teams/0fba1dbd-06dc-415b-9546-5250db329ef3/breakdown">Dryfire</a></td>
+          <td>2nd</td>
+          <td>1568th</td>
+        </tr>
+      </tbody>
+
+      <tfoot>
+        <tr>
+          <td>Score to beat</td>
+          <td>4,306</td>
+        </tr>
+      </tfoot>
+    </table>
+
+    <table>
+      <caption>
+        Boulder League Leaderboard (Mens)
+      </caption>
+
+      <thead>     
+        <tr>
+          <th>Boulder Bro</th>
+          <th>Score</th>
+          <th>Team</th>
+          <th>Bro Ranking</th>
+          <th>League Ranking</th>
+        </tr>
+      </thead>
+
+      <tbody>
+        <tr>
+          <td>Ryder</td>
+          <td>3,331</td>
+          <td><a class="Team" href="https://fantasyclimbingleague.com/teams/8b184cfe-c923-46aa-b411-2804c2abf49f/breakdown">Dryfire</a></td>
+          <td>1st</td>
+          <td>743rd</td>
+        </tr>
+
+        <tr>
+          <td>AJ</td>
+          <td>3,190</td>
+          <td><a class="Team" href="https://fantasyclimbingleague.com/teams/06773db1-08c1-43dc-8644-45a56ac6dddf/breakdown">Beta Blockers</a></td>
+          <td>2nd</td>
+          <td>1048th</td>
+        </tr>
+      </tbody>
+
+      <tfoot>
+        <tr>
+          <td>Score to beat</td>
+          <td>4,354</td>
+        </tr>
+      </tfoot>
+    </table>
+
+
+    <!--Boulder/League Split-->
+
+    <h2>LeaderBoards</h2>
+    <table>
+      <caption>
+        Lead League Leaderboard (Overall)
+      </caption>
+
+      <thead>     
+        <tr>
+          <th>Lead Bro</th>
+          <th>Score</th>
+          <th>Bro Ranking</th>
+        </tr>
+      </thead>
+
+      <tbody>
+        <tr>
+          <td>Ryder</td>
+          <td>----</td>
+          <td>----</td>
+        </tr>
+
+        <tr>
+          <td>AJ</td>
+          <td>----</td>
+          <td>----</td>
+        </tr>
+
+        <tr>
+          <td>Sean</td>
+          <td>----</td>
+          <td>----</td>
+        </tr>
+      </tbody>
+
+      <tfoot>
+        <tr>
+          <td>Score to beat</td>
+          <td>----</td>
+        </tr>
+      </tfoot>
+    </table>
+
+    <table>
+      <caption>
+        Lead League Leaderboard (Womens)
+      </caption>
+
+      <thead>     
+        <tr>
+          <th>Lead Bro</th>
+          <th>Score</th>
+          <th>Team</th>
+          <th>Bro Ranking</th>
+          <th>League Ranking</th>
+        </tr>
+      </thead>
+
+      <tbody>
+        <tr>
+          <td>Ryder</td>
+          <td>----</td>
+          <td><a class="Team" href="">Dryfire</a></td>
+          <td>----</td>
+          <td>----</td>
+        </tr>
+
+        <tr>
+          <td>AJ</td>
+          <td>----</td>
+          <td><a class="Team" href="">Beta Blockers</a></td>
+          <td>----</td>
+          <td>----</td>
+        </tr>
+
+        <tr>
+          <td>Sean</td>
+          <td>----</td>
+          <td><a class="Team" href="">----</a></td>
+          <td>----</td>
+          <td>----</td>
+        </tr>
+      </tbody>
+
+      <tfoot>
+        <tr>
+          <td>Score to beat</td>
+          <td>----</td>
+        </tr>
+      </tfoot>
+    </table>
+
+    <table>
+      <caption>
+        Lead League Leaderboard (Mens)
+      </caption>
+
+      <thead>     
+        <tr>
+          <th>Lead Bro</th>
+          <th>Score</th>
+          <th>Team</th>
+          <th>Bro Ranking</th>
+          <th>League Ranking</th>
+        </tr>
+      </thead>
+
+      <tbody>
+        <tr>
+          <td>Ryder</td>
+          <td>----</td>
+          <td><a class="Team" href="">Dryfire</a></td>
+          <td>----</td>
+          <td>----</td>
+        </tr>
+
+        <tr>
+          <td>AJ</td>
+          <td>----</td>
+          <td><a class="Team" href="">Beta Blockers</a></td>
+          <td>----</td>
+          <td>----</td>
+        </tr>
+
+        <tr>
+          <td>Sean</td>
+          <td>----</td>
+          <td><a class="Team" href="">----</a></td>
+          <td>----</td>
+          <td>----</td>
+        </tr>
+      </tbody>
+
+      <tfoot>
+        <tr>
+          <td>Score to beat</td>
+          <td>----</td>
+        </tr>
+      </tfoot>
+    </table>
+  </body>
+
+</html>
