@@ -4,7 +4,7 @@
 }
 
 table {
-
+  text-align: left;
 }
 
 thead {
@@ -20,19 +20,19 @@ tfoot {
 }
 
 tr {
-  
+  text-align: left;
 }
 
 th {
-  
+  text-align: left;
 }
 
 td {
-  
+  text-align: left;
 }
 
 caption {
-  
+  text-align: left;
 }
 
 .Team {
@@ -65,7 +65,7 @@ h2 {
 
 body {
   text-align: center;
-      display: inline-block; text-align: left;
+  display: inline-block; text-align: left;
   background-color: #403220;
   font-family: "Monaco", monospace;
   color: #eab676;
