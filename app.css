@@ -73,15 +73,15 @@ table {
 }
 
 thead {
-
+  text-align: center;
 }
 
 tbody {
-
+  text-align: left;
 }
 
 tfoot { 
-
+  text-align: left;
 }
 
 tr {
